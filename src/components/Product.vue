@@ -10,18 +10,14 @@
 </template>
 
 <script>
+
 import {carMixin} from './mixin'
 export default {
   data(){
     return{
       text: "Md Fuadul Islam Redoy",
-
     }
   },
   mixins: [carMixin]
 }
 </script>
-
-<style scoped>
-
-</style>

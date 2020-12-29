@@ -1,10 +1,9 @@
 <template>
 <div>
-  <CompProduct></CompProduct>
-  <comp-products></comp-products>
+  <compProduct></compProduct>
+  <compProducts></compProducts>
 </div>
 </template>
-
 
 <script>
 
